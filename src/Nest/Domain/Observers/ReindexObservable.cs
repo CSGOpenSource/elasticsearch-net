@@ -1,7 +1,7 @@
 ﻿using System;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class ReindexObservable<T> : IDisposable, IObservable<IReindexResponse<T>> where T : class
 	{

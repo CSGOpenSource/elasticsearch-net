@@ -9,7 +9,7 @@ menuitem: breaking-changes
 
 ## Elasticsearch 1.0
 
-Elasticsearch 1.0 comes with it's own set of breaking changes which [are all documented in the elasticsearch documentation](http://www.elasticsearch.org/guide/en/elasticsearch/reference/1.x/breaking-changes.html). This page describes breaking changes NEST introduces in its 1.0 release and to an extend how you should handle Elasticsearch 1.0 changes in your exisiting code base using NEST prior to NEST 1.0.
+Elasticsearch 1.0 comes with it's own set of breaking changes which [are all documented in the elasticsearch documentation](http://www.elasticsearch.org/guide/en/elasticsearch/reference/1.x/breaking-changes.html). This page describes breaking changes NEST introduces in its 1.0 release and to an extend how you should handle Elasticsearch 1.0 changes in your exisiting code base using Nest_1_7_2 prior to NEST 1.0.
 
 ## NEST 1.0
 

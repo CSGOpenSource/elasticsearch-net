@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     /// <summary>
 	/// A filter that stems words (similar to snowball, but with more options).

@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using System;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// Determines how the terms aggregation is executed

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq.Expressions;
 using Newtonsoft.Json;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(ReadAsTypeConverter<BoostFieldMapping>))]
 	public interface IBoostFieldMapping : ISpecialField

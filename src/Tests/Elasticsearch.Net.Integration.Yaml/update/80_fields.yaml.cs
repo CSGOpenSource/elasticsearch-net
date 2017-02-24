@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 
 
-namespace Elasticsearch.Net.Integration.Yaml.Update14
+namespace Elasticsearch.Net_1_7_2.Integration.Yaml.Update14
 {
 	public partial class Update14YamlTests
 	{	

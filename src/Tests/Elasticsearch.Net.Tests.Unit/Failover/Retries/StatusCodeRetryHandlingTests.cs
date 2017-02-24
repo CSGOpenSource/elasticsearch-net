@@ -2,14 +2,14 @@
 using System.IO;
 using System.Threading.Tasks;
 using Autofac.Extras.FakeItEasy;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Exceptions;
-using Elasticsearch.Net.Tests.Unit.Stubs;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Exceptions;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Stubs;
 using FakeItEasy;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Elasticsearch.Net.Tests.Unit.Failover.Retries
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Failover.Retries
 {
 	[TestFixture]
 	public class StatusCodeRetryHandlingTests

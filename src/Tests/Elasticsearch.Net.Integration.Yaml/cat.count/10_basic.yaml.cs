@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 
 
-namespace Elasticsearch.Net.Integration.Yaml.CatCount1
+namespace Elasticsearch.Net_1_7_2.Integration.Yaml.CatCount1
 {
 	public partial class CatCount1YamlTests
 	{	

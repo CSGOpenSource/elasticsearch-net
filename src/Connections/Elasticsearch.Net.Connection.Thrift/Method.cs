@@ -4,7 +4,7 @@
  * DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
  */
 
-namespace Elasticsearch.Net.Connection.Thrift
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift
 {
 	internal enum Method
 	{

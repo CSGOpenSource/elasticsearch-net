@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using NUnit.Framework;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Search.Filter
+namespace Nest_1_7_2.Tests.Integration.Search.Filter
 {
 	/// <summary>
 	/// Integrated tests of PrefixFilter with elasticsearch.

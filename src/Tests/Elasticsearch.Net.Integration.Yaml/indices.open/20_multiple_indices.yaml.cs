@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 
 
-namespace Elasticsearch.Net.Integration.Yaml.IndicesOpen2
+namespace Elasticsearch.Net_1_7_2.Integration.Yaml.IndicesOpen2
 {
 	public partial class IndicesOpen2YamlTests
 	{	

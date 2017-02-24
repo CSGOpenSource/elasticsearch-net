@@ -1,8 +1,8 @@
 ﻿using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Reflection;
 
-namespace Nest.Tests.Unit.Core.Map.RoutingField
+namespace Nest_1_7_2.Tests.Unit.Core.Map.RoutingField
 {
 	[TestFixture]
 	public class RoutingFieldTests : BaseJsonTests

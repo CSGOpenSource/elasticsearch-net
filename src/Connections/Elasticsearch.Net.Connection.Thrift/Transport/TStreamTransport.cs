@@ -23,7 +23,7 @@
 
 using System.IO;
 
-namespace Elasticsearch.Net.Connection.Thrift.Transport
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Transport
 {
 	public class TStreamTransport : TTransport
 	{

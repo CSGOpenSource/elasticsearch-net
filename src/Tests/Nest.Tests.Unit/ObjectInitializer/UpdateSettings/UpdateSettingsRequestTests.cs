@@ -1,4 +1,4 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace Nest.Tests.Unit.ObjectInitializer.UpdateSettings
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.UpdateSettings
 {
 	[TestFixture]
 	public class UpdateSettingsRequestTests : BaseJsonTests

@@ -2,15 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Elasticsearch.Net.Connection.RequestState;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Exceptions;
-using Elasticsearch.Net.Providers;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2.Connection.RequestState;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Exceptions;
+using Elasticsearch.Net_1_7_2.Providers;
+using Elasticsearch.Net_1_7_2.Serialization;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Elasticsearch.Net.Connection.RequestHandlers
+namespace Elasticsearch.Net_1_7_2.Connection.RequestHandlers
 {
 	internal class RequestHandlerBase
 	{

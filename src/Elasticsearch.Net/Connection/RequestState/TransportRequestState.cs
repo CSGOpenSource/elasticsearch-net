@@ -5,11 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using Elasticsearch.Net.Connection.Configuration;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using Purify;
 
-namespace Elasticsearch.Net.Connection.RequestState
+namespace Elasticsearch.Net_1_7_2.Connection.RequestState
 {
 	internal static class TransportRequestState
 	{

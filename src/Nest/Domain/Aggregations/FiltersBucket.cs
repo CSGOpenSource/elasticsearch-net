@@ -1,7 +1,7 @@
 ﻿
 using System.Collections.Generic;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     public class FiltersBucket : IAggregation
     {

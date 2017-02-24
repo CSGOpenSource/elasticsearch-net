@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
-using Nest.Resolvers;
-using Nest.Tests.MockData.Domain;
+using Elasticsearch.Net_1_7_2;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Search.InitializerSyntax
+namespace Nest_1_7_2.Tests.Unit.Search.InitializerSyntax
 {
 	[TestFixture]
 	public class InitializerExample : BaseJsonTests

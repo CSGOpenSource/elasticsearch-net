@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Index
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Index
 {
 	[TestFixture]
 	public class IndexRequestTests : BaseJsonTests

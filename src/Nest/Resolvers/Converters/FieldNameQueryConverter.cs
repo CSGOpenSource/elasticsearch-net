@@ -1,10 +1,10 @@
 ﻿using System;
-using Nest.DSL.Query.Behaviour;
-using Nest.Resolvers;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.DSL.Query.Behaviour;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 
 

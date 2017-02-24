@@ -1,10 +1,10 @@
 ﻿using System.Linq;
-using Elasticsearch.Net;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Elasticsearch.Net_1_7_2;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Search.SearchTypeTests
+namespace Nest_1_7_2.Tests.Integration.Search.SearchTypeTests
 {
 	[TestFixture]
 	public class SearchTypeTests : IntegrationTests

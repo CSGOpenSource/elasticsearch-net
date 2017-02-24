@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Search.Query
+namespace Nest_1_7_2.Tests.Integration.Search.Query
 {
 	[TestFixture]
 	public class TermQueryDynamic : IntegrationTests

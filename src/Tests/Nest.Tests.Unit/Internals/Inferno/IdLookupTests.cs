@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using NUnit.Framework;
-using Nest.Resolvers;
+using Nest_1_7_2.Resolvers;
 
-namespace Nest.Tests.Unit.Internals.Inferno
+namespace Nest_1_7_2.Tests.Unit.Internals.Inferno
 {
 	[TestFixture]
 	public class IdLookupTests

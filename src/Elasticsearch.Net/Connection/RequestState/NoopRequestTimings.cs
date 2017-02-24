@@ -1,4 +1,4 @@
-namespace Elasticsearch.Net.Connection.RequestState
+namespace Elasticsearch.Net_1_7_2.Connection.RequestState
 {
 	internal class NoopRequestTimings : IRequestTimings
 	{

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public partial class ElasticClient
 	{

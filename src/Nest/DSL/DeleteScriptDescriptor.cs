@@ -1,8 +1,8 @@
 using System;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
     public interface IDeleteScriptRequest : IRequest<DeleteScriptRequestParameters>

@@ -1,8 +1,8 @@
 ﻿using System;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Validate
+namespace Nest_1_7_2.Tests.Unit.Core.Validate
 {
 	[TestFixture]
 	public class ValidateRequestTests : BaseJsonTests

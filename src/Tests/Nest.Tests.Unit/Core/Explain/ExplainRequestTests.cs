@@ -1,8 +1,8 @@
 ﻿using System;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Explain
+namespace Nest_1_7_2.Tests.Unit.Core.Explain
 {
 	[TestFixture]
 	public class ExplainRequestTests : BaseJsonTests

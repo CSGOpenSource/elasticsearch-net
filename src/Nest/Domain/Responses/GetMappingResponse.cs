@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
-using Nest.DSL.Visitor;
+using Elasticsearch.Net_1_7_2;
+using Nest_1_7_2.DSL.Visitor;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IGetMappingResponse : IResponse
 	{

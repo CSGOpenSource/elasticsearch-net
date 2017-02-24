@@ -1,9 +1,9 @@
 ﻿using System;
-using Elasticsearch.Net;
-using Nest.Resolvers.Converters;
+using Elasticsearch.Net_1_7_2;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
     public interface IExplainRequest : IDocumentOptionalPath<ExplainRequestParameters>

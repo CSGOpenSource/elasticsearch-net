@@ -21,9 +21,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Elasticsearch.Net.Connection.Thrift.Transport;
+using Elasticsearch.Net_1_7_2.Connection.Thrift.Transport;
 
-namespace Elasticsearch.Net.Connection.Thrift.Protocol
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Protocol
 {
 	/// <summary>
 	/// JSON protocol implementation for thrift.

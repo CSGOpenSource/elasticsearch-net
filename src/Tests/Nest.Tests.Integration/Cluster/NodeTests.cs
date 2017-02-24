@@ -1,9 +1,9 @@
 ﻿using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Cluster
+namespace Nest_1_7_2.Tests.Integration.Cluster
 {
 	[TestFixture]
 	public class NodeTests : IntegrationTests

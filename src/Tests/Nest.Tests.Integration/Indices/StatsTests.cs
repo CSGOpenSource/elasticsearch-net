@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Indices
+namespace Nest_1_7_2.Tests.Integration.Indices
 {
 	[TestFixture]
 	public class StatsTest : IntegrationTests

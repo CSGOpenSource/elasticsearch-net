@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System.Linq;
 
-namespace Nest.Tests.Integration.Warmers
+namespace Nest_1_7_2.Tests.Integration.Warmers
 {
 	[TestFixture]
 	public class WarmersTests : IntegrationTests

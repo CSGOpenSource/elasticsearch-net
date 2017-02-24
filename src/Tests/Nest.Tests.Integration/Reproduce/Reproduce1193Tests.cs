@@ -1,6 +1,6 @@
-﻿using Elasticsearch.Net.ConnectionPool;
-using Nest;
-using Nest.Tests.Integration;
+﻿using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Nest_1_7_2;
+using Nest_1_7_2.Tests.Integration;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	[TestFixture]
 	[Ignore]

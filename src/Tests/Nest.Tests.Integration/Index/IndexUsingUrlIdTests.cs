@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Index
+namespace Nest_1_7_2.Tests.Integration.Index
 {
 	[TestFixture]
 	public class IndexUsingUrlIdTests : IntegrationTests

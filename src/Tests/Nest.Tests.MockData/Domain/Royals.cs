@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Nest.Tests.MockData.Domain
+namespace Nest_1_7_2.Tests.MockData.Domain
 {
 	public interface IRoyal { }
 

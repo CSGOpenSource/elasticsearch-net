@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration
+namespace Nest_1_7_2.Tests.Integration
 {
 	public class SkipVersionAttribute : TestActionAttribute
 	{

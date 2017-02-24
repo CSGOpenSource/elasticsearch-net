@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	using GetWarmerConverter = Func<IElasticsearchResponse, Stream, WarmerResponse>;
 	using CrazyWarmerResponse = Dictionary<string, Dictionary<string, Dictionary<string, WarmerMapping>>>;

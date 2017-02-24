@@ -1,12 +1,12 @@
 ﻿using System;
 using System.IO;
 using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.QueryParsers 
+namespace Nest_1_7_2.Tests.Unit.QueryParsers 
 {
 	[TestFixture]
 	public abstract class BaseParserTests : BaseJsonTests

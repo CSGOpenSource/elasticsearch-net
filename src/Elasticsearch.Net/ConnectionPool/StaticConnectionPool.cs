@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Providers;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Providers;
 
-namespace Elasticsearch.Net.ConnectionPool
+namespace Elasticsearch.Net_1_7_2.ConnectionPool
 {
 	public class StaticConnectionPool : IConnectionPool
 	{

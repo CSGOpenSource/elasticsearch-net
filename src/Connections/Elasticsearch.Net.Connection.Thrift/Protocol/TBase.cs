@@ -17,7 +17,7 @@
  * under the License.
  */
 
-namespace Elasticsearch.Net.Connection.Thrift.Protocol
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Protocol
 {
 	public interface TBase
 	{

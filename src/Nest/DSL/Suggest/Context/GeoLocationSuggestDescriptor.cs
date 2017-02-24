@@ -5,7 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject]
 	public interface IGeoLocationSuggestContext : ISuggestContext

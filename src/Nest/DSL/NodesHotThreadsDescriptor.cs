@@ -1,12 +1,12 @@
 ﻿
-using Elasticsearch.Net;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	internal static class NodesHotThreadsPathInfo
 	{

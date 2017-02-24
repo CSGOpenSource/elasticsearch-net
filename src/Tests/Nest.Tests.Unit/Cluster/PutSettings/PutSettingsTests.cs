@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Cluster.PutSettings
+namespace Nest_1_7_2.Tests.Unit.Cluster.PutSettings
 {
 	[TestFixture]
 	public class PutSettingsTests : BaseJsonTests

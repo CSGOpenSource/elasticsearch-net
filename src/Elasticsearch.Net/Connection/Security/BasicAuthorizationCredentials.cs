@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Elasticsearch.Net.Connection.Security
+namespace Elasticsearch.Net_1_7_2.Connection.Security
 {
 	// TODO: Rename to BasicAuthenticationCredentials in 2.0
 	public class BasicAuthorizationCredentials

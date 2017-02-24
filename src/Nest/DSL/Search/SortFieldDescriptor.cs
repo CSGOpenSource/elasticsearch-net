@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Linq.Expressions;
-using Nest.DSL.Descriptors;
+using Nest_1_7_2.DSL.Descriptors;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	
 	[JsonConverter(typeof(StringEnumConverter))]

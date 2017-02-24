@@ -2,7 +2,7 @@
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Indices.Analysis.Tokenizers
+namespace Nest_1_7_2.Tests.Unit.Core.Indices.Analysis.Tokenizers
 {
 	[TestFixture]
 	public abstract class BaseAnalysisTests : BaseJsonTests

@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
 using NUnit.Framework;
 using System.Linq.Expressions;
 using Newtonsoft.Json;
 
-namespace Nest.Tests.Unit.Internals.Inferno
+namespace Nest_1_7_2.Tests.Unit.Internals.Inferno
 {
 	[TestFixture]
 	public class MapPropertyIgnoreForTests : BaseJsonTests

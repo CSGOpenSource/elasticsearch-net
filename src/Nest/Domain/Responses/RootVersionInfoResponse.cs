@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IRootInfoResponse : IResponse
 	{

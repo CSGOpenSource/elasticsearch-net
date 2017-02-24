@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.AttributeBasedMap
+namespace Nest_1_7_2.Tests.Unit.Core.AttributeBasedMap
 {
 	[TestFixture]
 	public class AllTypesTest : BaseAttributeMappingTests

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Nodes
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Nodes
 {
 	[TestFixture]
 	public class NodesInfoRequestTests : BaseJsonTests

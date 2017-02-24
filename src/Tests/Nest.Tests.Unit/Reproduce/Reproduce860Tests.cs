@@ -1,9 +1,9 @@
 ﻿using System.IO;
-using Elasticsearch.Net;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Unit.Reproduce
+namespace Nest_1_7_2.Tests.Unit.Reproduce
 {
 
 	[TestFixture]

@@ -1,11 +1,11 @@
 using System;
 using System.IO;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Nest.Tests.Integration.Exceptions
+namespace Nest_1_7_2.Tests.Integration.Exceptions
 {
 	public class ThrowAlwaysConnection : IConnection
 	{

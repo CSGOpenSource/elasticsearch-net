@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Unit.Reproduce
+namespace Nest_1_7_2.Tests.Unit.Reproduce
 {
 	class SomeClass
 	{

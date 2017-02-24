@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public class FieldValueFactor<T> : FunctionScoreFunction<T> where T : class

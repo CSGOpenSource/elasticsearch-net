@@ -5,11 +5,11 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Serialization;
-using Elasticsearch.Net.Connection.Security;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Serialization;
+using Elasticsearch.Net_1_7_2.Connection.Security;
 
-namespace Elasticsearch.Net.Connection
+namespace Elasticsearch.Net_1_7_2.Connection
 {
 	/// <summary>
 	/// ConnectionConfiguration allows you to control how ElasticsearchClient behaves and where/how it connects 

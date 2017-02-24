@@ -1,10 +1,10 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-using Nest.Domain;
+using Nest_1_7_2.Domain;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IExplainResponse<T> : IResponse
 		where T : class

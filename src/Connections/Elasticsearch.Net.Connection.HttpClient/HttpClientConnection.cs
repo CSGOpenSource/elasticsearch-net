@@ -5,9 +5,9 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Elasticsearch.Net.Connection
+namespace Elasticsearch.Net_1_7_2.Connection
 {
 	/// <summary>
 	/// IConnection implemented using <see cref="System.Net.Http.HttpClient"/>

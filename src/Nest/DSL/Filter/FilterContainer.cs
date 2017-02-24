@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using Nest.DSL.Visitor;
+using Nest_1_7_2.DSL.Visitor;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class FilterContainer : IFilterContainer, ICustomJson
 	{

@@ -1,4 +1,4 @@
-﻿using Nest.Tests.MockData.Domain;
+﻿using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FluentAssertions;
 
-namespace Nest.Tests.Integration.Search.Query
+namespace Nest_1_7_2.Tests.Integration.Search.Query
 {
 	[TestFixture]
 	public class FilteredQueryTests : IntegrationTests

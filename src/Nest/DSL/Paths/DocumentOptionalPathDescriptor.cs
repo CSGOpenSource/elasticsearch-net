@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IDocumentOptionalPath<TParameters> : IRequest<TParameters>
 		where TParameters : IRequestParameters, new()

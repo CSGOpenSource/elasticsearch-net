@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Net;
 
-namespace Elasticsearch.Net.Connection
+namespace Elasticsearch.Net_1_7_2.Connection
 {
 	public abstract class ElasticsearchAuthException : Exception
 	{

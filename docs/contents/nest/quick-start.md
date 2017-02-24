@@ -35,7 +35,7 @@ Assumming Elasticsearch is already installed and running on your machine, go to 
       "tagline" : "You Know, for Search"
     }
 
-To connect to your local node using NEST, simply:
+To connect to your local node using Nest_1_7_2, simply:
 
     var node = new Uri("http://localhost:9200");
 

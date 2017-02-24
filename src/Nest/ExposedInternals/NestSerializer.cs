@@ -4,12 +4,12 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
-using Elasticsearch.Net.Serialization;
-using Nest.Resolvers;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Serialization;
+using Nest_1_7_2.Resolvers;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class NestSerializer : INestSerializer
 	{

@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Reflection;
 
-namespace Nest.Resolvers.Converters
+namespace Nest_1_7_2.Resolvers.Converters
 {
 
 	public class MultiSearchConverter : JsonConverter

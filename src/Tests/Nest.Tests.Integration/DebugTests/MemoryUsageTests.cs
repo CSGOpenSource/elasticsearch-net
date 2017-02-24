@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Debug
+namespace Nest_1_7_2.Tests.Integration.Debug
 {
 	[TestFixture]
 	public class MemoryUsageTests 

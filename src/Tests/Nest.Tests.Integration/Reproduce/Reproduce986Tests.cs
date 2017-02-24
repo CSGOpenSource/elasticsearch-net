@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FluentAssertions;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	public class ElasticCallCustomer
 	{

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Search.Failures
+namespace Nest_1_7_2.Tests.Unit.Search.Failures
 {
 	[TestFixture]
 	public class ShardFailureTests : BaseJsonTests

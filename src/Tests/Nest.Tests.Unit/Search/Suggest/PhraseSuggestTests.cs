@@ -1,9 +1,9 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Collections.Generic;
 
-namespace Nest.Tests.Unit.Search.Suggest
+namespace Nest_1_7_2.Tests.Unit.Search.Suggest
 {
 	[TestFixture]
 	public class PhraseSuggestTests : BaseJsonTests

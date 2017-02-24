@@ -1,7 +1,7 @@
-﻿using Nest.Tests.MockData.Domain;
+﻿using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Search.Filter.Singles
+namespace Nest_1_7_2.Tests.Unit.Search.Filter.Singles
 {
     [TestFixture]
     public class GeoHashCellFilterJson

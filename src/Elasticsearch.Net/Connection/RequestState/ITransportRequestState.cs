@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Elasticsearch.Net.Connection.RequestState
+namespace Elasticsearch.Net_1_7_2.Connection.RequestState
 {
 	public interface ITransportRequestState
 	{

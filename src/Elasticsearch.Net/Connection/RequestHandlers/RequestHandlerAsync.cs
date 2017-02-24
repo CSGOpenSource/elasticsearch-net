@@ -4,12 +4,12 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection.RequestState;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Providers;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2.Connection.RequestState;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Providers;
+using Elasticsearch.Net_1_7_2.Serialization;
 
-namespace Elasticsearch.Net.Connection.RequestHandlers
+namespace Elasticsearch.Net_1_7_2.Connection.RequestHandlers
 {
 	internal class RequestHandlerAsync : RequestHandlerBase
 	{

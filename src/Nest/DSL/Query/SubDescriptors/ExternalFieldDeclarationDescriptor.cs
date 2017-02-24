@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Linq.Expressions;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class ExternalFieldDeclarationDescriptor<T> : IExternalFieldDeclaration 
 		where T : class

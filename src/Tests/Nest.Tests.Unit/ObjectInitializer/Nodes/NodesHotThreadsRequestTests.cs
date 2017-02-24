@@ -1,4 +1,4 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Nodes
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Nodes
 {
 	[TestFixture]
 	public class NodesHotThreadsRequestTests : BaseJsonTests

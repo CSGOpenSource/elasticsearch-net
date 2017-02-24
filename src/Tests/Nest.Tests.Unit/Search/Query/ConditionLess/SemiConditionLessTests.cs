@@ -1,8 +1,8 @@
 ﻿using System;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Unit.Search.Query.ConditionLess
+namespace Nest_1_7_2.Tests.Unit.Search.Query.ConditionLess
 {
 	[TestFixture]
 	public class SemiConditionLessTests : BaseJsonTests

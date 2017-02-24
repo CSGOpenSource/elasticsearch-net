@@ -1,5 +1,5 @@
-﻿using Elasticsearch.Net.Connection.Configuration;
-using Elasticsearch.Net.Connection.RequestState;
+﻿using Elasticsearch.Net_1_7_2.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Connection.RequestState;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Elasticsearch.Net.Connection
+namespace Elasticsearch.Net_1_7_2.Connection
 {
 	internal interface ITransportDelegator
 	{

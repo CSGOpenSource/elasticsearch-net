@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	[TestFixture]
 	public class Reproduce1278Tests

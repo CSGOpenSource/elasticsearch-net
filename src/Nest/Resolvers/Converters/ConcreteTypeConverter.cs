@@ -3,13 +3,13 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Elasticsearch.Net;
-using Nest.Domain;
+using Elasticsearch.Net_1_7_2;
+using Nest_1_7_2.Domain;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using Nest.Resolvers;
+using Nest_1_7_2.Resolvers;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	internal class DefaultHitConverter : JsonConverter
 	{

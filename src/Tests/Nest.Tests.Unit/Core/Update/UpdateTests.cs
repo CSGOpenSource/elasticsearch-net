@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using Newtonsoft.Json;
 
-namespace Nest.Tests.Unit.Core.Update
+namespace Nest_1_7_2.Tests.Unit.Core.Update
 {
 	[TestFixture]
 	public class UpdateTests : BaseJsonTests

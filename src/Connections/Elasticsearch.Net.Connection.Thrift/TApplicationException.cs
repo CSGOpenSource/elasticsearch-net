@@ -22,9 +22,9 @@
  */
 
 using System;
-using Elasticsearch.Net.Connection.Thrift.Protocol;
+using Elasticsearch.Net_1_7_2.Connection.Thrift.Protocol;
 
-namespace Elasticsearch.Net.Connection.Thrift
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift
 {
 	public class TApplicationException : Exception
 	{

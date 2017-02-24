@@ -1,16 +1,16 @@
 ﻿using System.Text;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using FluentAssertions;
-using Nest.Tests.Integration;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.Integration;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	[TestFixture]
 	public class Reproduce953Tests 

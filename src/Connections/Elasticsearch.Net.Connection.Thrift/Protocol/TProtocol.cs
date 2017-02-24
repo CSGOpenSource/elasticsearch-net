@@ -22,9 +22,9 @@
  */
 
 using System.Text;
-using Elasticsearch.Net.Connection.Thrift.Transport;
+using Elasticsearch.Net_1_7_2.Connection.Thrift.Transport;
 
-namespace Elasticsearch.Net.Connection.Thrift.Protocol
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Protocol
 {
 	public abstract class TProtocol
 	{

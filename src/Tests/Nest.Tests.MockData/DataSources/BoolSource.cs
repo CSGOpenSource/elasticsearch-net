@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using AutoPoco.Engine;
 
-namespace Nest.Tests.MockData.DataSources
+namespace Nest_1_7_2.Tests.MockData.DataSources
 {
 	/// <summary>
 	/// Generator of random booleans.

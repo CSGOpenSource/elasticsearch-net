@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using Nest.DSL.Query.Behaviour;
+using Nest_1_7_2.DSL.Query.Behaviour;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public interface IWildcardQuery : ITermQuery

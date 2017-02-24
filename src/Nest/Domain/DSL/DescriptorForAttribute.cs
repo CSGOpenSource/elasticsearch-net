@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// DescriptorFor is a marker to rename unintuitive generated elasticsearch operation names

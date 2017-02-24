@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     /// <summary>
 	/// A token filter of type lowercase that normalizes token text to lower case.

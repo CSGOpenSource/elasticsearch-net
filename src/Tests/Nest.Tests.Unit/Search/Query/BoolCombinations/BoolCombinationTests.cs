@@ -1,9 +1,9 @@
 ﻿using System;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Diagnostics;
 
-namespace Nest.Tests.Unit.Search.Query.BoolCombinations
+namespace Nest_1_7_2.Tests.Unit.Search.Query.BoolCombinations
 {
 	[TestFixture]
 	public class BoolCombinationTests : BaseJsonTests

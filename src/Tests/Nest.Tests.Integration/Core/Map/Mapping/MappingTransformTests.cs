@@ -1,6 +1,6 @@
 ﻿
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Integration.Core.Map.Mapping
+namespace Nest_1_7_2.Tests.Integration.Core.Map.Mapping
 {
 	[TestFixture]
 	public class MappingTransformTests : BaseMappingTests

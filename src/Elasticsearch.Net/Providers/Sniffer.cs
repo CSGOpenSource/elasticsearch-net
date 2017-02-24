@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text.RegularExpressions;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Serialization;
 
-namespace Elasticsearch.Net.Providers
+namespace Elasticsearch.Net_1_7_2.Providers
 {
 	public static class Sniffer
 	{

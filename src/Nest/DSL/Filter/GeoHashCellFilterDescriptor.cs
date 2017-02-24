@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
     public interface IGeoHashCellFilter : IFilter

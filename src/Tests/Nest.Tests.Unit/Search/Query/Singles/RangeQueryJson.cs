@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Unit.Search.Query.Singles
+namespace Nest_1_7_2.Tests.Unit.Search.Query.Singles
 {
 	[TestFixture]
 	public class RangeQueryJson

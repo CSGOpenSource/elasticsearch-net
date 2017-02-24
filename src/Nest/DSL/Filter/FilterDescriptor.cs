@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using System.Linq.Expressions;
 using System.Globalization;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class FilterDescriptor<T> : FilterContainer
 		where T : class

@@ -1,9 +1,9 @@
 ﻿using System;
 using Newtonsoft.Json;
 using System.Linq.Expressions;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(ReadAsTypeConverter<RoutingFieldMapping>))]
 	public interface IRoutingFieldMapping : ISpecialField

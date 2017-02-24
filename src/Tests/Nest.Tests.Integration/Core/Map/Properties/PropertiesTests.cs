@@ -2,9 +2,9 @@
 using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.Map.Properties
+namespace Nest_1_7_2.Tests.Integration.Core.Map.Properties
 {
 	[TestFixture]
 	public class PropertiesTests : BaseMappingTests

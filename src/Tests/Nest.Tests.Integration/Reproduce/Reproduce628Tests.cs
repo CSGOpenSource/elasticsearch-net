@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 using FluentAssertions;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	[TestFixture]
 	public class Reproduce628Tests : IntegrationTests

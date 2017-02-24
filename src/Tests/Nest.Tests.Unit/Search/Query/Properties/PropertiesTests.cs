@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Unit.Search.Query.Properties
+namespace Nest_1_7_2.Tests.Unit.Search.Query.Properties
 {
 	[TestFixture]
 	public class PropertiesTests : BaseJsonTests

@@ -5,7 +5,7 @@ using System.Threading;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Nest.Resolvers.Converters
+namespace Nest_1_7_2.Resolvers.Converters
 {
 
 	public class CatThreadPoolRecordConverter : JsonConverter

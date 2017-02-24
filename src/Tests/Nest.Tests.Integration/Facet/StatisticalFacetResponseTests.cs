@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Facet
+namespace Nest_1_7_2.Tests.Integration.Facet
 {
     /// <summary>
     ///  Tests that test whether the query response can be successfully mapped or not

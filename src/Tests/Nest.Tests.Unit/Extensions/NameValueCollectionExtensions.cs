@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 using System;
 using System.Collections.Specialized;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Unit.Extensions
+namespace Nest_1_7_2.Tests.Unit.Extensions
 {
     [TestFixture]
     public class NameValueCollectionExtensions

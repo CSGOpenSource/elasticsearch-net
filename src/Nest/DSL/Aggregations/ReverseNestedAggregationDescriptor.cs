@@ -1,4 +1,4 @@
-﻿using Nest.Resolvers.Converters;
+﻿using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	[JsonConverter(typeof(ReadAsTypeConverter<ReverseNestedAggregator>))]

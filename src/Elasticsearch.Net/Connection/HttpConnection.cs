@@ -9,11 +9,11 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection.Configuration;
-using Elasticsearch.Net.Providers;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Providers;
 using Purify;
 
-namespace Elasticsearch.Net.Connection
+namespace Elasticsearch.Net_1_7_2.Connection
 {
 	public class HttpConnection : IConnection
 	{

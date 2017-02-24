@@ -1,9 +1,9 @@
 ﻿using System;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Linq;
 
-namespace Nest.Tests.Unit.Search.Query.ConditionLessStrict
+namespace Nest_1_7_2.Tests.Unit.Search.Query.ConditionLessStrict
 {
 	[TestFixture]
 	public class ConditionLessStrictTests : BaseJsonTests

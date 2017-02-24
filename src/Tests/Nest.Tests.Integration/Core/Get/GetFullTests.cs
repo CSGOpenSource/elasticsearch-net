@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using FluentAssertions;
-namespace Nest.Tests.Integration.Core.Get
+namespace Nest_1_7_2.Tests.Integration.Core.Get
 {
 	[TestFixture]
 	public class GetFullTests : IntegrationTests

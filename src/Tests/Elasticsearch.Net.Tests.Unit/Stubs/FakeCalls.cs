@@ -7,14 +7,14 @@ using System.Text;
 using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extras.FakeItEasy;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Connection.Configuration;
-using Elasticsearch.Net.Providers;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Providers;
+using Elasticsearch.Net_1_7_2.Serialization;
 using FakeItEasy;
 using FakeItEasy.Configuration;
 
-namespace Elasticsearch.Net.Tests.Unit.Stubs
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Stubs
 {
 	public static class FakeCalls 
 	{

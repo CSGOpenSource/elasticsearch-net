@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Nest.Resolvers;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class FieldNameFilterConverter<T> : JsonConverter
 		where T : class, new()

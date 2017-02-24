@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Mapping
+namespace Nest_1_7_2.Tests.Integration.Mapping
 {
 	[TestFixture]
 	public class MapFromAttributeTests : IntegrationTests

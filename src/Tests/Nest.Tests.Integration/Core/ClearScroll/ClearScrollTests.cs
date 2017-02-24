@@ -1,10 +1,10 @@
 ﻿using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
-using Elasticsearch.Net;
+using Nest_1_7_2.Tests.MockData.Domain;
+using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Integration.Core.ClearScroll
+namespace Nest_1_7_2.Tests.Integration.Core.ClearScroll
 {
 	[TestFixture]
 	public class ClearScrollTests : IntegrationTests

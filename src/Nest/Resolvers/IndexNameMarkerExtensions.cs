@@ -1,6 +1,6 @@
-﻿using Nest.Resolvers;
+﻿using Nest_1_7_2.Resolvers;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public static class IndexNameMarkerExtensions
 	{

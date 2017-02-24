@@ -1,12 +1,12 @@
 ﻿using System.Text;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	[TestFixture]
 	public class Reproduce769Tests : IntegrationTests

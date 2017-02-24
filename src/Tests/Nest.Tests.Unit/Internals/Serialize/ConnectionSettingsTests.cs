@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using Newtonsoft.Json;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Internals.Serialize
+namespace Nest_1_7_2.Tests.Unit.Internals.Serialize
 {
 
 	public class TestDate

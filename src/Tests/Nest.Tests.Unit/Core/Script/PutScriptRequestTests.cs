@@ -3,10 +3,10 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Script
+namespace Nest_1_7_2.Tests.Unit.Core.Script
 {
     [TestFixture]
     public class PutScriptRequestTests : BaseJsonTests
@@ -52,7 +52,7 @@ namespace Nest.Tests.Unit.Core.Script
             var result = this._client.PutScript(s => s.Lang("lang").Id("id").Script("script"));
             Assert.NotNull(result, "PutScript result should not be null");
             var status = result.ConnectionStatus;
-            StringAssert.Contains("USING NEST IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
+            StringAssert.Contains("using Nest_1_7_2 IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
             StringAssert.EndsWith("/_scripts/lang/id", status.RequestUrl);
             StringAssert.AreEqualIgnoringCase("POST", status.RequestMethod);
         }
@@ -63,7 +63,7 @@ namespace Nest.Tests.Unit.Core.Script
             var result = this._client.PutScript(s => s.Lang(ScriptLang.Groovy).Id("id").Script("script"));
             Assert.NotNull(result, "PutScript result should not be null");
             var status = result.ConnectionStatus;
-            StringAssert.Contains("USING NEST IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
+            StringAssert.Contains("using Nest_1_7_2 IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
             StringAssert.EndsWith("/_scripts/groovy/id", status.RequestUrl);
             StringAssert.AreEqualIgnoringCase("POST", status.RequestMethod);
         }

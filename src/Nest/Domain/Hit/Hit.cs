@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Nest.Domain;
+using Nest_1_7_2.Domain;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	//[JsonConverter(typeof(ConcreteTypeConverter))]
 	public interface IHit<out T> where T : class

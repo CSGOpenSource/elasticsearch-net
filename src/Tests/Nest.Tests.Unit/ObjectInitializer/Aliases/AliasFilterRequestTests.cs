@@ -1,8 +1,8 @@
 ﻿using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Aliases
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Aliases
 {
 	[TestFixture]
 	public class AliasFilterRequestTests : BaseJsonTests

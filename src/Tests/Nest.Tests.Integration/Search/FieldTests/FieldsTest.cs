@@ -1,18 +1,18 @@
 ﻿using FluentAssertions;
 
-namespace Nest.Tests.Integration.Search.FieldTests
+namespace Nest_1_7_2.Tests.Integration.Search.FieldTests
 {
 	using System.Collections.Generic;
 	using System.Linq;
-	using Elasticsearch.Net;
-	using Nest.Tests.MockData.Domain;
+	using Elasticsearch.Net_1_7_2;
+	using Nest_1_7_2.Tests.MockData.Domain;
 	using NUnit.Framework;
 
 	[TestFixture]
 	public class FieldsTest : IntegrationTests
 	{
 		/// <summary>
-		/// Fields string param usage produces correct search string (ref: Nest.Tests.Unit.Search.SearchOptions.TestFieldsWithExclusionsByProperty)
+		/// Fields string param usage produces correct search string (ref: Nest_1_7_2.Tests.Unit.Search.SearchOptions.TestFieldsWithExclusionsByProperty)
 		/// Results fail to be correctly deserialized, resulting doc count is correct but docs are all null.
 		/// https://github.com/elasticsearch/elasticsearch-net/issues/606
 		/// </summary>

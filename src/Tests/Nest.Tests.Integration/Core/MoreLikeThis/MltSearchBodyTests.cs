@@ -1,8 +1,8 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.MoreLikeThis
+namespace Nest_1_7_2.Tests.Integration.Core.MoreLikeThis
 {
 	[TestFixture]
 	public class MltSearchBodyTests : IntegrationTests

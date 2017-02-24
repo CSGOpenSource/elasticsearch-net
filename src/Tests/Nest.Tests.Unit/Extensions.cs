@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.Unit
+namespace Nest_1_7_2.Tests.Unit
 {
 	public static class JsonExtensions
 	{

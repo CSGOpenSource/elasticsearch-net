@@ -2,7 +2,7 @@
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Indices
+namespace Nest_1_7_2.Tests.Integration.Indices
 {
 	[TestFixture]
 	public class SegmentsTests : IntegrationTests

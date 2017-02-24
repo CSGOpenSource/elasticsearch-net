@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Resolvers;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Nodes
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Nodes
 {
 	[TestFixture]
 	public class NodeStatsRequestTests : BaseJsonTests

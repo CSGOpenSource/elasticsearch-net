@@ -1,8 +1,8 @@
 ﻿using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Indices
+namespace Nest_1_7_2.Tests.Integration.Indices
 {
 	[TestFixture]
 	public class OpenCloseTests : IntegrationTests

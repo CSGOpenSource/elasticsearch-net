@@ -3,7 +3,7 @@ using FluentAssertions;
 using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Nest.Tests.Unit.QueryParsers.Queries
+namespace Nest_1_7_2.Tests.Unit.QueryParsers.Queries
 {
 	[TestFixture]
 	public class GeoShapeQueryTests : ParseQueryTestsBase

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>Implements a convenience extension method for count that defaults
 	/// to counting over all indices and types.
