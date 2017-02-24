@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 using Autofac.Extras.FakeItEasy;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Connection.Configuration;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Exceptions;
-using Elasticsearch.Net.Providers;
-using Elasticsearch.Net.Tests.Unit.Stubs;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Exceptions;
+using Elasticsearch.Net_1_7_2.Providers;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Stubs;
 using FakeItEasy;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Elasticsearch.Net.Tests.Unit.ConnectionPools.Sniffing
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.ConnectionPools.Sniffing
 {
 	[TestFixture]
 	public class SniffingNotAuthenticatedTests

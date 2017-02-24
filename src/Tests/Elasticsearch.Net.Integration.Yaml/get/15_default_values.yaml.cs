@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 
 
-namespace Elasticsearch.Net.Integration.Yaml.Get2
+namespace Elasticsearch.Net_1_7_2.Integration.Yaml.Get2
 {
 	public partial class Get2YamlTests
 	{	

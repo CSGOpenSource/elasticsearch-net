@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Threading;
 using NUnit.Framework;
 using Nest.Tests.MockData.Domain;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 
 namespace Nest.Tests.Unit.Internals.Serialize

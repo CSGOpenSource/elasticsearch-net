@@ -1,6 +1,6 @@
 ﻿using System.Net.Sockets;
 
-namespace Elasticsearch.Net.Connection.Thrift.Transport
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Transport
 {
 	internal class SocketConnectState
 	{

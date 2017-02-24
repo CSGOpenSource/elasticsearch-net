@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Elasticsearch.Net
+namespace Elasticsearch.Net_1_7_2
 {
     internal static class ExceptionExtensions
     {

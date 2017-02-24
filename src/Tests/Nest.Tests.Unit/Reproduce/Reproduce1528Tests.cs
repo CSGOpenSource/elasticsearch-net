@@ -1,4 +1,4 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 using NUnit.Framework;
 using System;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 
 namespace Nest.Tests.Unit.Reproduce
 {

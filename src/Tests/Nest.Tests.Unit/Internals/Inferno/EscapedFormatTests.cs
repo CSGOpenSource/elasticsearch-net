@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
 namespace Nest.Tests.Unit.Internals.Inferno
 {

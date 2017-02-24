@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using Nest.DSL.Visitor;
 using Nest.Tests.MockData.Domain;

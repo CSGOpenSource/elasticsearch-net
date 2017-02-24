@@ -48,7 +48,7 @@ namespace Nest.Tests.Integration.Core
 			var r = this.Client.FieldStats(fs => fs
 				.Index(ElasticsearchConfiguration.DefaultIndex)
 				.Fields("name")
-				.Level(Elasticsearch.Net.Level.Indices)
+				.Level(Elasticsearch.Net_1_7_2.Level.Indices)
 			);
 			r.IsValid.Should().BeTrue();
 			r.Shards.Should().NotBeNull();

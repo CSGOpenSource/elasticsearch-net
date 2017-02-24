@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 
-namespace Elasticsearch.Net
+namespace Elasticsearch.Net_1_7_2
 {
 	public interface IElasticsearchResponse
 	{

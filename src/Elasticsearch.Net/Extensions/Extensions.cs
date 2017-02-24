@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Globalization;
 
-namespace Elasticsearch.Net
+namespace Elasticsearch.Net_1_7_2
 {
 	internal static class Extensions
 	{

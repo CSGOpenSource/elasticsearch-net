@@ -4,8 +4,8 @@ using System.ComponentModel;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using Nest.Resolvers;
 using Newtonsoft.Json;
 

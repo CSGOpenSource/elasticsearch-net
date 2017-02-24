@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace Elasticsearch.Net.Connection.Thrift.Transport
+namespace Elasticsearch.Net_1_7_2.Connection.Thrift.Transport
 {
 	internal class TSocketV2 : Socket
 	{

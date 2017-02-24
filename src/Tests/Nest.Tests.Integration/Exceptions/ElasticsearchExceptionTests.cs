@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.Net;
 using System.Threading.Tasks;
-using Elasticsearch.Net;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Exceptions;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Exceptions;
 using FluentAssertions;
 using Nest.Tests.MockData.Domain;
 using NUnit.Framework;

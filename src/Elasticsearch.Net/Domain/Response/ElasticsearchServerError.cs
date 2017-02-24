@@ -1,6 +1,6 @@
-using Elasticsearch.Net.Exceptions;
+using Elasticsearch.Net_1_7_2.Exceptions;
 
-namespace Elasticsearch.Net
+namespace Elasticsearch.Net_1_7_2
 {
 	public class ElasticsearchServerError
 	{

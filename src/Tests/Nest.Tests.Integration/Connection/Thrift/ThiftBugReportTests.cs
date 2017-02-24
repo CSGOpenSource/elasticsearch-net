@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
-using Elasticsearch.Net.Connection.Thrift;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Connection.Thrift;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using FluentAssertions;
 using NUnit.Framework;
 

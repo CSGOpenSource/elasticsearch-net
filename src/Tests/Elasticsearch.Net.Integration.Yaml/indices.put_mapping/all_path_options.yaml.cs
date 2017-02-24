@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 
 
-namespace Elasticsearch.Net.Integration.Yaml.IndicesPutMapping2
+namespace Elasticsearch.Net_1_7_2.Integration.Yaml.IndicesPutMapping2
 {
 	public partial class IndicesPutMapping2YamlTests
 	{	

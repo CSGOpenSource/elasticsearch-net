@@ -1,4 +1,4 @@
-namespace Elasticsearch.Net.Serialization
+namespace Elasticsearch.Net_1_7_2.Serialization
 {
 	public enum SerializationFormatting
 	{

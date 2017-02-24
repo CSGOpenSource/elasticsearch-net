@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
 using NUnit.Framework;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
 namespace Nest.Tests.Integration.RawCalls
 {

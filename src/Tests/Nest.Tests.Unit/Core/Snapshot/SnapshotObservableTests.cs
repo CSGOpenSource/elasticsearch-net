@@ -5,7 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 using System.Threading;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using FakeItEasy.Core;
 using Moq;
 using NUnit.Framework;

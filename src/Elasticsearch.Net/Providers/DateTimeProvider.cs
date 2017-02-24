@@ -1,7 +1,7 @@
 ﻿using System;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 
-namespace Elasticsearch.Net.Providers
+namespace Elasticsearch.Net_1_7_2.Providers
 {
 	public class DateTimeProvider : IDateTimeProvider
 	{

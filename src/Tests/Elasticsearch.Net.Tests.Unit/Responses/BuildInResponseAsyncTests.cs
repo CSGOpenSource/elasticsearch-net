@@ -1,12 +1,12 @@
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Tests.Unit.Responses.Helpers;
-using Elasticsearch.Net.Tests.Unit.Stubs;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Responses.Helpers;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Stubs;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Elasticsearch.Net.Tests.Unit.Responses
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Responses
 {
 	[TestFixture]
 	public class BuildInResponseAsyncTests

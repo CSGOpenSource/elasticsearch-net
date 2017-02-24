@@ -4,10 +4,10 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
 using System.Text;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Connection.Configuration;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Elasticsearch.Net
+namespace Elasticsearch.Net_1_7_2
 {
 
 	/// <summary>

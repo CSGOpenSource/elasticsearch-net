@@ -2,13 +2,13 @@
 using System.Linq;
 using System.Threading;
 using Autofac.Extras.FakeItEasy;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Tests.Unit.Stubs;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Stubs;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Elasticsearch.Net.Tests.Unit.Failover.Concurrent
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Failover.Concurrent
 {
 	[TestFixture]
 	public class ConcurrencyTests

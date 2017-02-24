@@ -1,9 +1,9 @@
-using Elasticsearch.Net.Connection.Security;
+using Elasticsearch.Net_1_7_2.Connection.Security;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Elasticsearch.Net.Connection.Configuration
+namespace Elasticsearch.Net_1_7_2.Connection.Configuration
 {
 	public interface IRequestConfiguration 
 	{

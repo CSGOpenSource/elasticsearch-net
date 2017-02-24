@@ -1,6 +1,6 @@
 ﻿using System.Text;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using FluentAssertions;
 using Nest.Tests.Integration;
 using Nest.Tests.MockData;

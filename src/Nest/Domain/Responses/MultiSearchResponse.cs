@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Newtonsoft.Json;
 using System.Collections.Generic;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
 namespace Nest
 {

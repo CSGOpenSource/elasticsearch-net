@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Elasticsearch.Net;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
 using Nest.Tests.MockData.Domain;
 using NUnit.Framework;

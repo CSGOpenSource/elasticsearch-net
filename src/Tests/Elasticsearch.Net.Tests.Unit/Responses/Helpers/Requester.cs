@@ -3,12 +3,12 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 using Autofac.Extras.FakeItEasy;
-using Elasticsearch.Net.Connection;
-using Elasticsearch.Net.Tests.Unit.Stubs;
+using Elasticsearch.Net_1_7_2.Connection;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Stubs;
 using FakeItEasy;
 using FakeItEasy.Configuration;
 
-namespace Elasticsearch.Net.Tests.Unit.Responses.Helpers
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Responses.Helpers
 {
 	public class Requester<T> : IDisposable where T : class
 	{

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 using Nest;
 
 namespace Profiling.Indexing

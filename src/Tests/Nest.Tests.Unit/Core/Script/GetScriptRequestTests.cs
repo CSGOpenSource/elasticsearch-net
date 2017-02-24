@@ -1,6 +1,6 @@
 using System;
 using System.Reflection;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 
 namespace Nest.Tests.Unit.Core.Script

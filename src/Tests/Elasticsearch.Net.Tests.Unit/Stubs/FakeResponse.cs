@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-using Elasticsearch.Net.Connection;
+using Elasticsearch.Net_1_7_2.Connection;
 using FakeItEasy.ExtensionSyntax.Full;
 
-namespace Elasticsearch.Net.Tests.Unit.Stubs
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Stubs
 {
 	public static class FakeResponse
 	{

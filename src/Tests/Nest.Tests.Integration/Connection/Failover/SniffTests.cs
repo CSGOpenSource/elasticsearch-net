@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Linq;
-using Elasticsearch.Net;
-using Elasticsearch.Net.ConnectionPool;
+using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.ConnectionPool;
 using NUnit.Framework;
 
 namespace Nest.Tests.Integration.Core.Bulk

@@ -6,7 +6,7 @@ using System.Text;
 using Nest.DSL.Query.Behaviour;
 using Nest.Resolvers;
 using Newtonsoft.Json;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 
 namespace Nest
 {

@@ -1,5 +1,5 @@
-﻿using Elasticsearch.Net.ConnectionPool;
-using Elasticsearch.Net.Exceptions;
+﻿using Elasticsearch.Net_1_7_2.ConnectionPool;
+using Elasticsearch.Net_1_7_2.Exceptions;
 using FluentAssertions;
 using Nest;
 using NUnit.Framework;

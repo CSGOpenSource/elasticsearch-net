@@ -4,7 +4,7 @@ namespace Nest.Tests.Integration.Search.FieldTests
 {
 	using System.Collections.Generic;
 	using System.Linq;
-	using Elasticsearch.Net;
+	using Elasticsearch.Net_1_7_2;
 	using Nest.Tests.MockData.Domain;
 	using NUnit.Framework;
 

@@ -1,5 +1,5 @@
 ﻿using System;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using Nest.Resolvers.Converters;
 using Newtonsoft.Json;
 

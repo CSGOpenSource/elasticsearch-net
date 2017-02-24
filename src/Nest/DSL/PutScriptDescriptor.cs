@@ -1,5 +1,5 @@
 using System.IO;
-using Elasticsearch.Net;
+using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 
 namespace Nest

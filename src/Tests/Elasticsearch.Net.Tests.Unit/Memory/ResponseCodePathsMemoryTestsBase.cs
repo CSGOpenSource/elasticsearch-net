@@ -1,8 +1,8 @@
 using System.IO;
-using Elasticsearch.Net.Tests.Unit.Memory.Helpers;
+using Elasticsearch.Net_1_7_2.Tests.Unit.Memory.Helpers;
 using FluentAssertions;
 
-namespace Elasticsearch.Net.Tests.Unit.Memory
+namespace Elasticsearch.Net_1_7_2.Tests.Unit.Memory
 {
 	public class ResponseCodePathsMemoryTestsBase
 	{

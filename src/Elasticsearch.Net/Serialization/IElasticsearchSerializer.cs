@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Elasticsearch.Net.Serialization
+namespace Elasticsearch.Net_1_7_2.Serialization
 {
 	public interface IElasticsearchSerializer
 	{

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Elasticsearch.Net.Serialization;
+using Elasticsearch.Net_1_7_2.Serialization;
 using Newtonsoft.Json;
 
 namespace Nest

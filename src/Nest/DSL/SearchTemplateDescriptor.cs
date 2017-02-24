@@ -1,4 +1,4 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using Nest.DSL.Descriptors;
 using Nest.Resolvers.Converters;
 using Newtonsoft.Json;

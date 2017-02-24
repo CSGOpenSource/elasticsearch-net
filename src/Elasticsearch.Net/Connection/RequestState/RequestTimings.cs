@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Elasticsearch.Net.Connection.RequestState
+namespace Elasticsearch.Net_1_7_2.Connection.RequestState
 {
 	internal class RequestTimings : IRequestTimings
 	{

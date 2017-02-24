@@ -1,5 +1,5 @@
-﻿using Elasticsearch.Net;
-using Elasticsearch.Net.Connection;
+﻿using Elasticsearch.Net_1_7_2;
+using Elasticsearch.Net_1_7_2.Connection;
 using NUnit.Framework;
 using System;
 using System.Collections.Specialized;

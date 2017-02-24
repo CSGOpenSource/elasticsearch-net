@@ -1,4 +1,4 @@
-﻿using Elasticsearch.Net;
+﻿using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 using Nest.Tests.MockData.Domain;
 using System.Collections.Generic;
