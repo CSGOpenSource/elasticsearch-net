@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// Provides convenience extension methods that make it easier to get the _source for 

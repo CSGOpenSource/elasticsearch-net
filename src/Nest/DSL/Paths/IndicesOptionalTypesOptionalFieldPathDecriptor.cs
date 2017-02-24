@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Elasticsearch.Net_1_7_2;
-using Nest.Resolvers;
+using Nest_1_7_2.Resolvers;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IIndicesOptionalTypesOptionalFieldsPath<TParameters> : IRequest<TParameters>
 		where TParameters : IRequestParameters, new()

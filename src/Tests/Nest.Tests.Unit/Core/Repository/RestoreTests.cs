@@ -9,7 +9,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Repository
+namespace Nest_1_7_2.Tests.Unit.Core.Repository
 {
 	public class RestoreTests : BaseJsonTests
 	{

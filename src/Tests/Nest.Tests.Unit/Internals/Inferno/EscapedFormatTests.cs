@@ -2,7 +2,7 @@
 using System;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Unit.Internals.Inferno
+namespace Nest_1_7_2.Tests.Unit.Internals.Inferno
 {
 	[TestFixture]
 	public class EscapedFormatTests

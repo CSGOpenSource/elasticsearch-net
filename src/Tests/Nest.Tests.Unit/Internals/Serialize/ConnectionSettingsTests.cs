@@ -6,7 +6,7 @@ using FluentAssertions;
 using Newtonsoft.Json;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Internals.Serialize
+namespace Nest_1_7_2.Tests.Unit.Internals.Serialize
 {
 
 	public class TestDate

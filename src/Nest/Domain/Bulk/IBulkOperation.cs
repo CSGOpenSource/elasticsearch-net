@@ -3,7 +3,7 @@ using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public interface IBulkOperation

@@ -10,7 +10,7 @@ using FakeItEasy.Core;
 using Moq;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Snapshot
+namespace Nest_1_7_2.Tests.Unit.Core.Snapshot
 {
 	[TestFixture]
 	public class SnapshotObservableTests : BaseJsonTests

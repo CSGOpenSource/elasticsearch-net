@@ -5,7 +5,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Snapshot
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Snapshot
 {
 	[TestFixture]
 	public class GetSnapshotRequestTests : BaseJsonTests

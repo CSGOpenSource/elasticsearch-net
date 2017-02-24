@@ -7,7 +7,7 @@ using Elasticsearch.Net_1_7_2.Connection;
 using NUnit.Framework;
 using System.Diagnostics;
 
-namespace Nest.Tests.Integration.Reproduce
+namespace Nest_1_7_2.Tests.Integration.Reproduce
 {
 	/// <summary>
 	/// tests to reproduce reported errors

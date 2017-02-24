@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(StringEnumConverter))]
 	public enum FieldIndexOption

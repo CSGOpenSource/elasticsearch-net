@@ -17,7 +17,7 @@ enough so that **all** the Elasticsearch API endpoints are represented as method
 Please read the getting started guide for both.
 
 
-## Who's using Nest
+## Who's using Nest_1_7_2
 * [stackoverflow.com](http://www.stackoverflow.com) (and the rest of the stackexchange family).
 * [7digital.com](http://www.7digital.com) (run NEST on mono).
 * [rijksmuseum.nl](https://www.rijksmuseum.nl/en) (Elasticsearch is the only datastorage hit for each page).
@@ -28,7 +28,7 @@ Please read the getting started guide for both.
 ## Other resources
 
 [@joelabrahamsson](http://twitter.com/joelabrahamsson) wrote a great [intro into elasticsearch on .NET](http://joelabrahamsson.com/entry/extending-aspnet-mvc-music-store-with-elasticsearch)
-using NEST. 
+using Nest_1_7_2. 
 
 Also checkout the [searchbox.io guys](https://searchbox.io/) rocking NEST [on AppHarbor](http://blog.appharbor.com/2012/06/19/searchbox-elasticsearch-is-now-an-add-on) 
 with their [demo project](https://github.com/searchbox-io/.net-sample)

@@ -3,7 +3,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.RawCalls
+namespace Nest_1_7_2.Tests.Integration.RawCalls
 {
 	[TestFixture]
 	public class HasUsefultServerExceptionTests : IntegrationTests

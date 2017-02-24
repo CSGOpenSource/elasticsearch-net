@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Integration.Core
+namespace Nest_1_7_2.Tests.Integration.Core
 {
 	[TestFixture]
 	public class PingTests : IntegrationTests

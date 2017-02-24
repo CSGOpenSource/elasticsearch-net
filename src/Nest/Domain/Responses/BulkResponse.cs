@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject]
 	public class BulkResponse : BaseResponse, IBulkResponse

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.MockData.Domain
+namespace Nest_1_7_2.Tests.MockData.Domain
 {
 	public class Product
 	{

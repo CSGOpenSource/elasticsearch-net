@@ -7,7 +7,7 @@ using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Settings
+namespace Nest_1_7_2.Tests.Unit.Settings
 {
 	[TestFixture]
 	public class UseTraceWriterTests : BaseJsonTests

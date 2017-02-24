@@ -2,10 +2,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.QueryParsers.Queries
+namespace Nest_1_7_2.Tests.Unit.QueryParsers.Queries
 {
 	[TestFixture]
 	public class BoolQueryTests : ParseQueryTestsBase

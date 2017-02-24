@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public partial class ElasticClient
 	{

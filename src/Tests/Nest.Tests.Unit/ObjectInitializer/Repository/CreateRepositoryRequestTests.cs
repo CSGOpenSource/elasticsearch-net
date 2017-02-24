@@ -6,7 +6,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Repository
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Repository
 {
 	[TestFixture]
 	public class CreateRepositoryRequestTests : BaseJsonTests

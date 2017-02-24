@@ -3,7 +3,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class MultiTermVectorDocumentDescriptor<T> : DocumentOptionalPathDescriptor<MultiTermVectorDocumentDescriptor<T>, MultiTermVectorsRequestParameters, T>, 
 		IMultiTermVectorDocumentDescriptor 

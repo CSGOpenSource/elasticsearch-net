@@ -7,7 +7,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.MultiTermVectors
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.MultiTermVectors
 {
 	[TestFixture]
 	public class MultiTermVectorsRequestTests : BaseJsonTests

@@ -5,11 +5,11 @@ using System.Reflection;
 using Elasticsearch.Net_1_7_2;
 using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Reproduce
+namespace Nest_1_7_2.Tests.Unit.Reproduce
 {
 	/// <summary>
 	/// tests to reproduce reported errors

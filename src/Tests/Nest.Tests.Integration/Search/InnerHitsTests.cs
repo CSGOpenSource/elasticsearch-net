@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using FluentAssertions;
 
-namespace Nest.Tests.Integration.Search
+namespace Nest_1_7_2.Tests.Integration.Search
 {
 	[TestFixture]
 	public class InnerHitsTests : IntegrationTests

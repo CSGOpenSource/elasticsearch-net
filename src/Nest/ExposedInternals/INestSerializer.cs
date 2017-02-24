@@ -5,7 +5,7 @@ using System.Linq;
 using Elasticsearch.Net_1_7_2.Serialization;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 
 	//TODO It would be very nice if we can get rid of this interface

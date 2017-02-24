@@ -4,7 +4,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using System.Linq.Expressions;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public interface IRegexpFilter : IFieldNameFilter

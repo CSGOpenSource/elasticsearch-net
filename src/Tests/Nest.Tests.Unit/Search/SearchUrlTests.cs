@@ -1,6 +1,6 @@
 ﻿using FluentAssertions;
 using Elasticsearch.Net_1_7_2.Connection;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 
-namespace Nest.Tests.Unit.Search
+namespace Nest_1_7_2.Tests.Unit.Search
 {
 	[TestFixture]
 	public class SearchUrlTests

@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Collections.Concurrent;
 
-namespace Nest.Resolvers.Writers
+namespace Nest_1_7_2.Resolvers.Writers
 {
 	public class TypeMappingWriter
 	{

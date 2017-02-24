@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.Bulk
+namespace Nest_1_7_2.Tests.Integration.Core.Bulk
 {
 	[TestFixture]
 	public class BulkUpdateTests : IntegrationTests

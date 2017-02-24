@@ -4,7 +4,7 @@ using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Aliases
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Aliases
 {
 	[TestFixture]
 	public class GetAliasMoreUrlTests : BaseJsonTests

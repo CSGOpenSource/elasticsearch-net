@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Scroll
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Scroll
 {
 	[TestFixture]
 	public class ScrollRequestTests : BaseJsonTests

@@ -6,10 +6,10 @@ using Elasticsearch.Net_1_7_2;
 using Elasticsearch.Net_1_7_2.ConnectionPool;
 using Elasticsearch.Net_1_7_2.Exceptions;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Exceptions
+namespace Nest_1_7_2.Tests.Integration.Exceptions
 {
 	[TestFixture]
 	public class ElasticsearchExceptionTests 

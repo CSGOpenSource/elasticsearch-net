@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Elasticsearch.Net_1_7_2;
 using Elasticsearch.Net_1_7_2.Connection;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IElasticClient
 	{

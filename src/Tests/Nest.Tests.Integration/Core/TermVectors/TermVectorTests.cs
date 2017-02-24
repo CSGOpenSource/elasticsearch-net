@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using FluentAssertions;
-using Nest.Tests.MockData;
+using Nest_1_7_2.Tests.MockData;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.TermVectors
+namespace Nest_1_7_2.Tests.Integration.Core.TermVectors
 {
 	[TestFixture]
 	public class TermVectorTests : IntegrationTests

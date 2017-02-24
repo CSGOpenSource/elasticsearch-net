@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class RestoreObservable : IDisposable, IObservable<IRecoveryStatusResponse>
 	{

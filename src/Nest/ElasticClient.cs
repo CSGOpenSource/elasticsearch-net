@@ -8,7 +8,7 @@ using Elasticsearch.Net_1_7_2.Connection;
 using Elasticsearch.Net_1_7_2.Connection.Configuration;
 using Elasticsearch.Net_1_7_2.Exceptions;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// ElasticClient is NEST's strongly typed client which exposes fully mapped elasticsearch endpoints

@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Reflection;
 
-namespace Nest.Tests.Unit.Core.Indices.Analysis.Tokenizers
+namespace Nest_1_7_2.Tests.Unit.Core.Indices.Analysis.Tokenizers
 {
 	[TestFixture]
 	public class TokenizerTests : BaseAnalysisTests

@@ -4,7 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Integration.Index
+namespace Nest_1_7_2.Tests.Integration.Index
 {
 	[TestFixture]
 	public class GetIdFromElasticSearchTests : IntegrationTests

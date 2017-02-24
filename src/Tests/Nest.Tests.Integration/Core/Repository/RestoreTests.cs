@@ -8,9 +8,9 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.Repository
+namespace Nest_1_7_2.Tests.Integration.Core.Repository
 {
 	[TestFixture]
 	public class RestoreTests : IntegrationTests

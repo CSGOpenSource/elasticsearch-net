@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Elasticsearch.Net_1_7_2.ConnectionPool;
-using Nest;
+using Nest_1_7_2;
 
 namespace Profiling.Indexing
 {

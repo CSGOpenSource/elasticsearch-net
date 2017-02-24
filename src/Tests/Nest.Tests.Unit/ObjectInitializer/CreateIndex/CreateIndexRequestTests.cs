@@ -6,7 +6,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.CreateIndex
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.CreateIndex
 {
 	[TestFixture]
 	public class CreateIndexRequestTests : BaseJsonTests

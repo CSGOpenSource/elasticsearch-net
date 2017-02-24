@@ -1,8 +1,8 @@
-using Nest.DSL.Visitor;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.DSL.Visitor;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	[JsonConverter(typeof(ReadAsTypeConverter<QueryContainer>))]

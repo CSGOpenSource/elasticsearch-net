@@ -2,9 +2,9 @@
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.Map
+namespace Nest_1_7_2.Tests.Integration.Core.Map
 {
 	[TestFixture]
 	public abstract class BaseMappingTests : IntegrationTests

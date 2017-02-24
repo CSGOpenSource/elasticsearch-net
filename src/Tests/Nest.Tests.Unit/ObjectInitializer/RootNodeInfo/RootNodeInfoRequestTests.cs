@@ -5,7 +5,7 @@ using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.RootNodeInfo
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.RootNodeInfo
 {
 	[TestFixture]
 	public class RootNodeInfoRequestTests : BaseJsonTests

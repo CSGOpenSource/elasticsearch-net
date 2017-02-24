@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Reflection;
 
-namespace Nest.Tests.Unit.Core.Map.SourceField
+namespace Nest_1_7_2.Tests.Unit.Core.Map.SourceField
 {
 	[TestFixture]
 	public class SourceFieldTests : BaseJsonTests

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Reflection;
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Resolvers;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.ObjectInitializer.MoreLikeThis
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.MoreLikeThis
 {
 	[TestFixture]
 	public class MoreLikeThisRequestTests : BaseJsonTests

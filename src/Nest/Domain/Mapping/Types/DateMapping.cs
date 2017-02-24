@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization.OptIn)]
 	public class DateMapping : MultiFieldMapping, IElasticType, IElasticCoreType

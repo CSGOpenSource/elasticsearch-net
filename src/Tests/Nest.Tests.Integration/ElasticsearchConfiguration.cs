@@ -4,7 +4,7 @@ using System.Linq;
 using Elasticsearch.Net_1_7_2.Connection.Thrift;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Integration
+namespace Nest_1_7_2.Tests.Integration
 {
 	public static class ElasticsearchConfiguration
 	{

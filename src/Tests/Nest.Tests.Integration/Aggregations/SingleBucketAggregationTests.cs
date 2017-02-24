@@ -1,10 +1,10 @@
 ﻿using System.Linq;
 using FluentAssertions;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Aggregations
+namespace Nest_1_7_2.Tests.Integration.Aggregations
 {
 	[TestFixture]
 	public class SingleBucketAggregationTests : IntegrationTests

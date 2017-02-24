@@ -6,7 +6,7 @@ menuitem: writing-queries
 ---
 
 # Writing Queries
-One of the most important things to grasp when using NEST is how to write queries. NEST offers you several possibilities.
+One of the most important things to grasp when using Nest_1_7_2 is how to write queries. NEST offers you several possibilities.
 
 All the examples in this section are assumed to be wrapped in:
 

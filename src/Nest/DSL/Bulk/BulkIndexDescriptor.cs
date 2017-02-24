@@ -3,7 +3,7 @@ using System.Globalization;
 using Newtonsoft.Json;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IIndexOperation<T> : IBulkOperation
 	{

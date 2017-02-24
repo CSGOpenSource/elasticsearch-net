@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using Elasticsearch.Net_1_7_2;
-using Nest.DSL.Query;
+using Nest_1_7_2.DSL.Query;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public interface IGetIndexRequest : IIndicesOptionalExplicitAllPath<GetIndexRequestParameters>

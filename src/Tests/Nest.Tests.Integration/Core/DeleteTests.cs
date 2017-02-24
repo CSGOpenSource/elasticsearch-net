@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
-using Nest.Tests.MockData;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Core
+namespace Nest_1_7_2.Tests.Integration.Core
 {
 	[TestFixture]
 	public class DeleteTests : IntegrationTests

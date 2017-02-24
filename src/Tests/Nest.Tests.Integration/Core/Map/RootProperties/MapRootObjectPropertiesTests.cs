@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Integration.Core.Map.RootProperties
+namespace Nest_1_7_2.Tests.Integration.Core.Map.RootProperties
 {
 	[TestFixture]
 	public class MapRootObjectPropertiesTests : BaseMappingTests

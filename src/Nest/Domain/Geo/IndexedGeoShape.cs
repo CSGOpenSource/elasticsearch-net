@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// An object to describe an indexed geoshape

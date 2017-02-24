@@ -9,7 +9,7 @@ using Elasticsearch.Net_1_7_2;
 //Generated File Please Do Not Edit Manually
 
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	///<summary>
 	///Raw operations with elasticsearch

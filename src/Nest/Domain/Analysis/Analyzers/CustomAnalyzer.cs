@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// An analyzer of type custom that allows to combine a Tokenizer with zero or more Token Filters, and zero or more Char Filters. 

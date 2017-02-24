@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// An analyzer of type whitespace that is built using a Whitespace Tokenizer.

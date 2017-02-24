@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using Nest.Resolvers.Converters;
-using Nest.Resolvers.Converters.Filters;
+using Nest_1_7_2.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters.Filters;
 using Newtonsoft.Json;
 using System.Linq.Expressions;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(RangeFilterJsonConverter))]
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]

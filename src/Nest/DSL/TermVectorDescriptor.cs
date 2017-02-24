@@ -5,7 +5,7 @@ using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 using System.Linq.Expressions;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface ITermvectorRequest : IDocumentOptionalPath<TermvectorRequestParameters>
 	{

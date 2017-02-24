@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Index
+namespace Nest_1_7_2.Tests.Integration.Index
 {
 	[TestFixture]
 	public class IndexDefaultValueTests : IntegrationTests

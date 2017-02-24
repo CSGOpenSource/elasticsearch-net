@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.QueryParsers.Filter
+namespace Nest_1_7_2.Tests.Unit.QueryParsers.Filter
 {
 	[TestFixture]
 	public class GeoPolygonFilterTests : ParseFilterTestsBase 

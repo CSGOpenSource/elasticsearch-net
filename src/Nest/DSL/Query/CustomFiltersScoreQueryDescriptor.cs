@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
-using Nest.DSL.Query;
+using Nest_1_7_2.DSL.Query;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	[JsonConverter(typeof(ReadAsTypeConverter<CustomFiltersScoreQueryDescriptor<object>>))]

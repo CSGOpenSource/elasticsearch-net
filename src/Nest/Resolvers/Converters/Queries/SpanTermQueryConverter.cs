@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
-using Nest.DSL.Query.Behaviour;
-using Nest.Resolvers;
+using Nest_1_7_2.DSL.Query.Behaviour;
+using Nest_1_7_2.Resolvers;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class SpanTermQueryConverter : JsonConverter
 	{

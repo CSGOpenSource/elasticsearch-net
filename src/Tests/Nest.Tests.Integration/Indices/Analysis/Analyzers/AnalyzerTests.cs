@@ -3,7 +3,7 @@ using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Indices.Analysis.Analyzers
+namespace Nest_1_7_2.Tests.Integration.Indices.Analysis.Analyzers
 {
 	[TestFixture]
 	public class AnalyzerTests : IntegrationTests

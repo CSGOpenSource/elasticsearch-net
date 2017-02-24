@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public enum HighlighterType
 	{

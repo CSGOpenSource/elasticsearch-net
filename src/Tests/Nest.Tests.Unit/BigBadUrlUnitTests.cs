@@ -3,10 +3,10 @@ using System.Linq;
 using Elasticsearch.Net_1_7_2;
 using Elasticsearch.Net_1_7_2.Connection;
 using FluentAssertions;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Cluster
+namespace Nest_1_7_2.Tests.Unit.Cluster
 {
 	[TestFixture]
 	public class BigBadUrlUnitTests

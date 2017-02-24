@@ -3,9 +3,9 @@ using System.Reflection;
 using Elasticsearch.Net_1_7_2;
 using FluentAssertions;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 
-namespace Nest.Tests.Unit.Core.MultiPercolate
+namespace Nest_1_7_2.Tests.Unit.Core.MultiPercolate
 {
 	[TestFixture]
 	public class MultiPercolateTests : BaseJsonTests

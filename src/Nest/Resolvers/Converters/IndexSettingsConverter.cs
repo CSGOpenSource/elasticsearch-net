@@ -5,7 +5,7 @@ using Elasticsearch.Net_1_7_2;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Nest.Resolvers.Converters
+namespace Nest_1_7_2.Resolvers.Converters
 {
 	public class IndexSettingsConverter : JsonConverter
 	{

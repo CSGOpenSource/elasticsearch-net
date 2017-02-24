@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(ReadAsTypeConverter<SourceFieldMapping>))]
 	public interface ISourceFieldMapping : ISpecialField

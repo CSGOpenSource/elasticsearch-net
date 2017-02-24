@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public interface IHighLevelToLowLevelDispatcher
 	{

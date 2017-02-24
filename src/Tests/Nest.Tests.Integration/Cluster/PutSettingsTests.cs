@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Nest.Tests.Integration.Cluster
+namespace Nest_1_7_2.Tests.Integration.Cluster
 {
 	[TestFixture]
 	public class PutSettingsTests : IntegrationTests

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 using System;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization.OptIn)]
 	public class RootObjectMapping : ObjectMapping

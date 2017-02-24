@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json;
 
-namespace Nest.DSL.Descriptors
+namespace Nest_1_7_2.DSL.Descriptors
 {
 	public interface IScriptSort : ISort
 	{

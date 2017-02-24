@@ -5,7 +5,7 @@ using System.Reflection;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Search.Fields
+namespace Nest_1_7_2.Tests.Unit.Search.Fields
 {
 	[TestFixture]
 	public class FieldsTests : BaseJsonTests

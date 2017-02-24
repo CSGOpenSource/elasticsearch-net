@@ -1,8 +1,8 @@
 ﻿using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using System.Reflection;
 
-namespace Nest.Tests.Unit.Core.Map.DynamicTemplates
+namespace Nest_1_7_2.Tests.Unit.Core.Map.DynamicTemplates
 {
 	[TestFixture]
 	public class DynamicTemplatesTests : BaseJsonTests

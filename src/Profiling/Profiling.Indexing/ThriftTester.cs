@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Elasticsearch.Net_1_7_2.Connection.Thrift;
 using Elasticsearch.Net_1_7_2.Connection.Thrift.Protocol;
-using Nest;
+using Nest_1_7_2;
 
 namespace Profiling.Indexing
 {

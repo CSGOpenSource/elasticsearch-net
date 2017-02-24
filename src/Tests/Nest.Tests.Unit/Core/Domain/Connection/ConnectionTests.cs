@@ -4,7 +4,7 @@ using NUnit.Framework;
 using System;
 using System.Collections.Specialized;
 
-namespace Nest.Tests.Unit.Domain.Connection
+namespace Nest_1_7_2.Tests.Unit.Domain.Connection
 {
 	using System.Net;
 

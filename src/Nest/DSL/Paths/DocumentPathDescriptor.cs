@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public abstract class DocumentPathBase<TParameters> : DocumentOptionalPathBase<TParameters> 
 		where TParameters : FluentRequestParameters<TParameters>, new()

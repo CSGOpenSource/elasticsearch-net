@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Nest
+namespace Nest_1_7_2
 {
     /// <summary>
     /// Splits tokens into tokens and payload whenever a delimiter character is found.

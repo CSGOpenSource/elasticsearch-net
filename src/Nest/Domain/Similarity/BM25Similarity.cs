@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	public class BM25Similarity : SimilarityBase
 	{

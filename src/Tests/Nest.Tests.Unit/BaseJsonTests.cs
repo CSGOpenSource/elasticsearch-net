@@ -11,7 +11,7 @@ using Newtonsoft.Json;
 using System.Reflection;
 using System.IO;
 
-namespace Nest.Tests.Unit
+namespace Nest_1_7_2.Tests.Unit
 {
 	public static class UnitTestDefaults
 	{
@@ -130,7 +130,7 @@ namespace Nest.Tests.Unit
 			var type = method.DeclaringType;
 			var @namespace = method.DeclaringType.Namespace;
 			var folderSep = Path.DirectorySeparatorChar.ToString();
-			var folder = @namespace.Replace("Nest.Tests.Unit.", "").Replace(".", folderSep);
+			var folder = @namespace.Replace("Nest_1_7_2.Tests.Unit.", "").Replace(".", folderSep);
 			var file = Path.Combine(folder, (fileName ?? method.Name).Replace(@"\", folderSep) + ".json");
 			file = Path.Combine(Environment.CurrentDirectory.Replace("bin" + folderSep + "Debug", "").Replace("bin" + folderSep + "Release", ""), file);
 			return file;

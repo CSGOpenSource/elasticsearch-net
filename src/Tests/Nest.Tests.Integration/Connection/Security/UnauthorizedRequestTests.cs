@@ -2,7 +2,7 @@
 using Elasticsearch.Net_1_7_2.ConnectionPool;
 using Elasticsearch.Net_1_7_2.Exceptions;
 using FluentAssertions;
-using Nest;
+using Nest_1_7_2;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;

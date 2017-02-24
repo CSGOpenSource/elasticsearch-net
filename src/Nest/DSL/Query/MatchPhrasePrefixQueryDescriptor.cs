@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// A Query that matches documents containing a particular sequence of terms.

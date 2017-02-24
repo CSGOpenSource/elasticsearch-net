@@ -4,9 +4,9 @@ using System.Linq;
 using Newtonsoft.Json;
 using System.Linq.Expressions;
 using System.Globalization;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonConverter(typeof(CustomJsonConverter))]
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]

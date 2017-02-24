@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Nest.Resolvers;
-using Nest.Resolvers.Converters;
-using Nest.Resolvers.Converters.Filters;
+using Nest_1_7_2.Resolvers;
+using Nest_1_7_2.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters.Filters;
 using Newtonsoft.Json;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 	public interface IGeoShapePolygonFilter : IGeoShapeBaseFilter

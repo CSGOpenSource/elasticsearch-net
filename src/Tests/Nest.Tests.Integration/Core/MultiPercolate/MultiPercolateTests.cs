@@ -2,12 +2,12 @@
 using System.Globalization;
 using System.Linq;
 using FluentAssertions;
-using Nest.Resolvers;
+using Nest_1_7_2.Resolvers;
 using NUnit.Framework;
-using Nest.Tests.MockData.Domain;
+using Nest_1_7_2.Tests.MockData.Domain;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Integration.Core.MultiPercolate
+namespace Nest_1_7_2.Tests.Integration.Core.MultiPercolate
 {
 	[TestFixture]
 	public class MultiPercolateTests : IntegrationTests

@@ -1,4 +1,4 @@
-﻿namespace Nest
+﻿namespace Nest_1_7_2
 {
 	/// <summary>
 	/// Language types used for language analyzers

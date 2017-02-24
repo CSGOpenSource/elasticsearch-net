@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.QueryParsers.Queries
+namespace Nest_1_7_2.Tests.Unit.QueryParsers.Queries
 {
 	[TestFixture]
 	public class FilteredQueryTests : ParseQueryTestsBase

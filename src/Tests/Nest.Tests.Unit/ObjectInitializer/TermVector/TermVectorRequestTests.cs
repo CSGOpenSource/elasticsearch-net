@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.Unit.ObjectInitializer.TermVector
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.TermVector
 {
 	public class TermVectorRequestTests : BaseJsonTests
 	{

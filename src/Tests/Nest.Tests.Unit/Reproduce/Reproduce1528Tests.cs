@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Elasticsearch.Net_1_7_2.Connection;
 
-namespace Nest.Tests.Unit.Reproduce
+namespace Nest_1_7_2.Tests.Unit.Reproduce
 {
 	[TestFixture]
 	public class Reproduce1528Tests : BaseJsonTests

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	using GetMappingConverter = Func<IElasticsearchResponse, Stream, GetMappingResponse>;
 

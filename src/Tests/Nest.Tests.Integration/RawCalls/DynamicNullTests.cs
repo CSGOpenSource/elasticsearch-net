@@ -5,7 +5,7 @@ using FluentAssertions;
 using NUnit.Framework;
 using Elasticsearch.Net_1_7_2;
 
-namespace Nest.Tests.Integration.RawCalls
+namespace Nest_1_7_2.Tests.Integration.RawCalls
 {
 	[TestFixture]
 	public class DynamicNullTests : IntegrationTests

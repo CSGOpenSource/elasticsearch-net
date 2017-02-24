@@ -5,7 +5,7 @@ using Elasticsearch.Net_1_7_2;
 using Elasticsearch.Net_1_7_2.Connection;
 using Elasticsearch.Net_1_7_2.Connection.Configuration;
 
-namespace Nest.Tests.Integration.Exceptions
+namespace Nest_1_7_2.Tests.Integration.Exceptions
 {
 	public class ThrowAlwaysConnection : IConnection
 	{

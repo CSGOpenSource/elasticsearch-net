@@ -3,7 +3,7 @@ using System.Reflection;
 using Elasticsearch.Net_1_7_2;
 using NUnit.Framework;
 
-namespace Nest.Tests.Unit.Core.Script
+namespace Nest_1_7_2.Tests.Unit.Core.Script
 {
     [TestFixture]
     public class GetScriptRequestTests : BaseJsonTests
@@ -42,7 +42,7 @@ namespace Nest.Tests.Unit.Core.Script
             var result = this._client.GetScript(s => s.Lang("lang").Id("id"));
             Assert.NotNull(result, "GetScript result should not be null");
             var status = result.ConnectionStatus;
-            StringAssert.Contains("USING NEST IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
+            StringAssert.Contains("using Nest_1_7_2 IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
             StringAssert.EndsWith("/_scripts/lang/id", status.RequestUrl);
             StringAssert.AreEqualIgnoringCase("GET", status.RequestMethod);
         }
@@ -53,7 +53,7 @@ namespace Nest.Tests.Unit.Core.Script
             var result = this._client.GetScript(s => s.Lang(ScriptLang.Python).Id("id"));
             Assert.NotNull(result, "GetScript result should not be null");
             var status = result.ConnectionStatus;
-            StringAssert.Contains("USING NEST IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
+            StringAssert.Contains("using Nest_1_7_2 IN MEMORY CONNECTION", result.ConnectionStatus.ResponseRaw.Utf8String());
             StringAssert.EndsWith("/_scripts/python/id", status.RequestUrl);
             StringAssert.AreEqualIgnoringCase("GET", status.RequestMethod);
         }

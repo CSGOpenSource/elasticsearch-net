@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nest.Tests.Unit.Core.Map
+namespace Nest_1_7_2.Tests.Unit.Core.Map
 {
 	class GetMappingSerializationTests : BaseJsonTests
 	{

@@ -1,4 +1,4 @@
-﻿namespace Nest
+﻿namespace Nest_1_7_2
 {
 	/// <summary>
     /// The keyword_repeat token filter Emits each incoming token twice once as keyword and once as a non-keyword to allow an unstemmed version of a term to be indexed side by side with the stemmed version of the term.

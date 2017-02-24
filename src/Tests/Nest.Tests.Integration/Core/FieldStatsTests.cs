@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 using FluentAssertions;
 
-namespace Nest.Tests.Integration.Core
+namespace Nest_1_7_2.Tests.Integration.Core
 {
 	[TestFixture]
 	public class FieldStatsTests : IntegrationTests

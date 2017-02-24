@@ -1,4 +1,4 @@
-﻿namespace Nest
+﻿namespace Nest_1_7_2
 {
 	/// <summary>
 	/// Provides convenience extension to open an index by string or type.

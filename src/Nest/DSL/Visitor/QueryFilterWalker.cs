@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Nest;
-using Nest.DSL.Visitor;
+using Nest_1_7_2;
+using Nest_1_7_2.DSL.Visitor;
 
-namespace Nest.DSL.Visitor
+namespace Nest_1_7_2.DSL.Visitor
 {
 	public class QueryFilterWalker
 	{

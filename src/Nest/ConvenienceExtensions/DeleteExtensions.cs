@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	/// <summary>
 	/// Implements extensions to Delete that allow for easier by id deletes.

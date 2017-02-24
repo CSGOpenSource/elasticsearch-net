@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq.Expressions;
 using Elasticsearch.Net_1_7_2;
-using Nest.Resolvers.Converters;
+using Nest_1_7_2.Resolvers.Converters;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	[JsonObject(MemberSerialization.OptIn)]
 	[JsonConverter(typeof(ReadAsTypeConverter<DirectGenerator>))]

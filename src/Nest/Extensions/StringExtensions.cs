@@ -1,7 +1,7 @@
 ﻿using System.Collections.Specialized;
 using System.Globalization;
 
-namespace Nest
+namespace Nest_1_7_2
 {
 	internal static class StringExtensions
 	{

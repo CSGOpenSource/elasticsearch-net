@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.Unit.ObjectInitializer.Warmers
+namespace Nest_1_7_2.Tests.Unit.ObjectInitializer.Warmers
 {
 	public class DeleteWarmerRequestTests : BaseJsonTests
 	{

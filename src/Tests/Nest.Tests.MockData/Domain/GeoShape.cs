@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nest.Tests.MockData.Domain
+namespace Nest_1_7_2.Tests.MockData.Domain
 {
 	/// <summary>
 	/// A really naive geojson shape, checkout GeoJson.net
